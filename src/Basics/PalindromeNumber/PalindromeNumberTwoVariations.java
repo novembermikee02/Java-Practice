@@ -49,3 +49,8 @@ public class PalindromeNumberTwoVariations {
         return true;
     }
 }
+
+// Overview. String valueOf() method is present in String class of java. lang
+// package. valueOf() in Java is used to convert any non String variable or
+// Object such as int, double, char, and others to a newly created String
+// object.

@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "getterSetterCompareTwoObject",
+      "request": "launch",
+      "mainClass": "Basics.CompareTwoObject.getterSetterCompareTwoObject",
+      "projectName": "Java Practice_10e4ee4b"
+    },
+    {
+      "type": "java",
+      "name": "numberToWord",
+      "request": "launch",
+      "mainClass": "Numbers.NumberToWord.numberToWord",
+      "projectName": "Java Practice_10e4ee4b"
+    },
+    {
+      "type": "java",
       "name": "FactorialExample",
       "request": "launch",
       "mainClass": "Basics.FactorialProgram.FactorialExample",

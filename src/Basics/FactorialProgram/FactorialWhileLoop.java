@@ -14,3 +14,7 @@ public class FactorialWhileLoop {
         System.out.println("Factorial of " + number + " is: " + factorial);
     }
 }
+
+// in the while loop the condition is checked prior to executing any statements
+// whereas in the case of do while loop, statements are run at least once, and
+// then the condition is verified
